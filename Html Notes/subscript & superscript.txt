@@ -1,0 +1,14 @@
+<sub> </sub> 	= will make the word smaller
+
+<sup> </sup>	= will make it square
+
+
+
+
+<p> a </p> <sup> 2 </sup> = a2     =    2 will be on top of a . a square
+
+<p> a </p> <sub> 2 </sub> = 2a	   =    2 will be down under a.  2 will be down with a . smaller 2  
+
+
+
+<p> a </p> <sup> 2 </sup> +2 <sub> ab </sub> -b <sup> 2 </sup>	    =   a2 + 2ab - b2     you know the format !

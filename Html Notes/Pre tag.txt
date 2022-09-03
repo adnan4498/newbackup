@@ -1,0 +1,28 @@
+What is pre tag?
+
+Definition and Usage. The <pre> tag defines preformatted text. Text in a <pre> element is displayed in a
+fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed
+exactly as written in the HTML source code.
+
+
+Example 		
+
+Without pre tag = 	    hello 
+				my name is 
+			     adnan 
+
+
+output = hello my name is adnan
+
+
+
+with pre tag = 	  <pre>	  hello
+			      my name is 
+			   adnan	  </pre>
+
+
+
+output = 	 hello
+		     my name is 
+	          adnan
+					will print excat same in font size line spaces.

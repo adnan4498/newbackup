@@ -1,0 +1,39 @@
+The CSS box-sizing property allows us to include the padding and border in an element's total width and height.
+
+if you see at the imaeg of (box sizing front end) you will see 2 div's up and down
+if we want to know the box sizing of the lower blue colour div.
+
+and we look at its inspect and go to layout and we see a box sizing.
+
+so here we can calculate the box sizing of the blue div.
+
+
+.div{
+    background-color: aqua;
+    margin: 20px;
+    height: 20px;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+
+look at the box model in inspect layout.
+
+
+first we got element
+than padding
+than border
+than margin 
+
+element size is 20px (in widht and height)
+then we have 2px padding (top and bottom padding 2+2)
+then we have 1px border (top and bottom 1+1)
+then we have 20px margin (top and bottom 20+20)
+
+the total affective height will be 66pixel.
+
+
+
+so
+
+

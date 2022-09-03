@@ -1,0 +1,16 @@
+type a text in <p> tag
+
+<p> hello </p>
+
+then in css, 
+
+
+p{		1	     2		  3	      4		# multiple fonts added bcz if the 1st one didnt worked css will by default run the 2nd. if not 2nd then 3rd.	
+  font-family: Roman,'Times new Roman',Calibari,'Arial Narrow';	
+}
+
+
+Output = The text will change to the selected font.
+
+
+Tip = You can go to Google Fonts and you can take different fonts from there.

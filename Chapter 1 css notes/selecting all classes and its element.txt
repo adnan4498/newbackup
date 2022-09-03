@@ -1,0 +1,3 @@
+p.red means paragraph with class red .. p.red{ colour: blue;} it will turn all the red class paragraph colour blue.
+
+p h1 h2 span etc etc for all tags 

@@ -1,0 +1,34 @@
+By default we have display block in our div element. (some elements dont have dispaly block as default you can search over google)
+
+so display block says that it does not want any other element with its left or right side .. any other element
+will be under that div element bcz of display block.
+
+if we have 2 div's they will be up and down to each other but, if we change there display property to
+
+
+display: inline;
+
+
+then they will come by left and right side to each other. but there are some restrictions to display inline property.
+
+with display inline you cannot set widht height or left right padding and margin. 
+
+with display inline the div will be fixed with its element inside.
+
+like we have lorem20, 20 text words so our div container or border anything, will be fixed to our text inside, fixed size width height
+ 
+
+
+so the conclusion is 
+
+display block = elements (div's) up and down to each other
+display inline = elements (div's) right and left to each other easily ( but no width height or left right padding nor margin) and fix size to element
+
+
+
+Important Note = after getting your div to right side of the first div. now you might be wanting to increase its 
+		 height and width, for that we have a display proeprty called 
+
+						inline-block
+
+		with inline-block property we can set div to right side and we can change its width height padding maring etc anything ! 

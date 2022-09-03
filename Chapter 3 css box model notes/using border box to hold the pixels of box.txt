@@ -1,0 +1,29 @@
+When we use border box property for box sizing.
+
+the size of box does not increase chahe jitni bi padding do.
+
+if we have a div of 
+
+width 100px;
+border 10px;
+padding 50px;
+
+the size wont be 100px, it will be increased to 240 bcz of all round border and 50 + 50 padding.
+
+to stop the size getting increased from 100px to 240px
+
+we use border box property 
+
+
+it will adjust and it wont increase the widht anymore instead it will increase height but the total
+size will remain 100px not 240px.
+
+if you give width 100 with padding 10 and border 5 in content box... the padding
+and border will not be included in the 100px widht, thus 100px width will be getting
+extra size bcz of padding and border.. result in leak or bigger box etc
+
+if you give width 100 with padding 10 and border 5 in border box... the padding
+and border will be included in the 100px width. everything will  be inside
+of widht.margin is not included in border box.
+
+

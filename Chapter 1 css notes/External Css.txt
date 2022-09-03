@@ -1,0 +1,14 @@
+For external css first we have to make a file name 	style.css
+
+then we have to give its link inside our index.html file. right under 
+
+		<title> Document </title>
+		<link rel="stylesheet" href="style.css">
+
+so our style.css file css will be added to our index.html
+
+
+any html file you make with that make a css file and give css file link into html file.
+
+you can make 2 html files and you can add both css into same style.css file but for that give style.css link
+in both html files.

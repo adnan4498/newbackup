@@ -1,0 +1,18 @@
+  <tr>
+              <th>S.No</th>
+        #      <!-- <th>Player.Name</th> -->
+              <th colspan ="1 "> Max.Score </th>
+         #     <!-- <th>Game</th> -->
+            </tr>
+
+
+	output
+
+		S.no   Max.score
+		1      Adnan 23 ipl
+		2      moiz 174 ipl	
+		3      hassam 23 ipl
+
+
+we used colspan = "3" in the <th> of Max.Score, so the Max.score heading wil
+get take 3 coloums data. if colspan 2 or 1 . it will take 2 or 1 coloum data.

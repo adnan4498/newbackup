@@ -1,0 +1,2 @@
+3rd and 4th answer is to make a div element with 2 classes and in style you write them seperately.
+

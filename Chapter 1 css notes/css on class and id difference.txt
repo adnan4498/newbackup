@@ -1,0 +1,15 @@
+# is used for id 	= element id was first
+
+. is used for class	= element calss was bg-blue
+
+
+
+#first{
+
+}
+
+.bg-blue{
+
+}
+
+

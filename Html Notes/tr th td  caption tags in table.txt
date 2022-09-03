@@ -1,0 +1,10 @@
+<tr> = Table row
+
+<th> = Table heading
+
+<td> = Table data
+
+<caption> = Will put a caption over a table . use this tag in table and up the <tr> tag 
+						<table>
+							<caption>   </caption>
+							<tr>

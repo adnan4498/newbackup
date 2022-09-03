@@ -1,0 +1,2 @@
+background-size: 250px 350;		first one will be widht 
+					second one will be height

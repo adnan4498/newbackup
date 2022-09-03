@@ -1,0 +1,12 @@
+<div class="red blue">
+	hello
+</div>
+
+
+
+.red.blue{			# this is how we put 2 classes in css style.
+     background-colour: purple;
+}
+
+
+output = hello's background colour will return in purple.

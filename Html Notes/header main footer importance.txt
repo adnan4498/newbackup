@@ -1,0 +1,30 @@
+Header will be the heading. it contains nav bar.
+
+main will have the content of the website.. with section aricle aside etc
+
+<main>
+	<section> A page section
+	<article> A self combined content
+	<aside> content aside from the content (eg Ads etc)
+</main>
+
+footer will be at last 
+
+
+
+
+we can type all this in <h1> tag or <p> tag but it wont be user friendly
+chrome robot wont detect what contect to show over web for better traffic.
+so use everything properly and wisely.   
+
+
+
+
+Follow this layout so your page will be SEO friendly, user experince will be good
+
+
+<main>
+	<section> A page section
+	<article> A self combined content
+	<aside> content aside from the content (eg Ads etc)
+</main>

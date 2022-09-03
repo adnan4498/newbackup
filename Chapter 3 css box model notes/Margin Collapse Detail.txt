@@ -1,0 +1,20 @@
+if we have 2 div's 
+
+one has margin 3 and lower div has margin 6 (margin top and bottom)
+
+
+you might think both div space will be margin 9px .. bcz of 6+3=9 right ? NOOO
+
+bcz the div with the largest margin will be considered in the browser. 
+
+you can see in the image or margin collapse in css notes. 
+
+upper div has margin 3px
+lower div has margin 7px 
+
+
+the space between both div's is margin 7px. bcz when the browser gives the margin 7px
+upper already got its 3px margin in that 7px margin.
+
+weather a div is upper or lower. the div or any element with greater margin will be 
+given priority by the browser .. default ! 

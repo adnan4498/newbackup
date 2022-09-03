@@ -1,0 +1,19 @@
+create a website with a class red dive which has a backgroud of red and 
+text colour white ?
+
+Answer:
+
+<style>
+	.red{
+	    background-color: red;
+	    colour; white;
+}
+
+
+
+
+
+type  .red	=  <div class="red">
+			hello
+		   </div>
+

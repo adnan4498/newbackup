@@ -1,0 +1,3 @@
+.adnan will make =	<div class="adnan"
+
+anything u write with . and you press enter will simply make a div and give it a class you just wrote.

@@ -1,0 +1,1 @@
+Basically selecting a class or id element or elements and then playing with it inside style.

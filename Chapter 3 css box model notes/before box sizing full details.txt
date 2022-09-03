@@ -1,0 +1,9 @@
+if we have 200px box with lorem. its not 200px its actually 240px bcz
+
+
+200px content 
+20 px padding left right
+20 px border all over
+
+
+its 240 px now .. the more stuff you add the more pixels box gets. it increases in width.

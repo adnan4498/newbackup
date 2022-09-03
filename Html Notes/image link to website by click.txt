@@ -1,0 +1,7 @@
+<a href="https://codewithharry" target="_main"> 
+	<img src="image.jpg" alt="image error" width="250px" /></a>
+
+
+
+so when we click on the image.jpg at web page.. it will take us to
+codewithharry.com website.

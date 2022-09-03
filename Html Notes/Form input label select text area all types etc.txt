@@ -1,0 +1,85 @@
+form = "action"	=    this will perfrom action on the perfom in the backend
+		     what ever action we give will pass to the backend.
+
+<input 		=    The <input> tag specifies an input field where the user can enter data.
+		     The <input> element is the most important form element. The <input> element
+		     can be displayed in several ways, Input has many attributes we can use,
+
+		    	<input type="button">
+			<input type="checkbox">
+			<input type="color">
+			<input type="date">
+			<input type="datetime-local">
+			<input type="email">
+			<input type="file">
+			<input type="hidden">
+			<input type="image">
+			<input type="month">
+			<input type="number">
+			<input type="password">
+			<input type="radio">
+			<input type="range">
+			<input type="reset">
+			<input type="search">
+			<input type="submit">	
+			<input type="tel">
+			<input type="text"> (default value)
+			<input type="time">
+			<input type="url">
+			<input type="week">
+
+
+
+placeholder	= 	will show temporary text in input bar for example
+			login, and when we type in login the login sentence
+			dissapear etc.
+
+
+label		=	its a simple label for your input tag.
+
+			<label for = "sectionid1">
+				<input type ="text" value="section1" name="secton1" id="section1">
+			</label>
+
+
+valie 		=	Value will print text but it depends on what type or input attribute you are using
+			For "button", "reset", and "submit" - it defines the text on the button, which user cant change or remove
+			
+			For "text", "password", and "hidden" - it defines the initial (default) value of the input field
+			
+
+name		=	The name attribute specifies a name for an HTML element. This name attribute can be used 
+			to reference the element in a JavaScript, Django, name will be used for backend purpose.
+
+
+id		=	The id attribute specifies a unique id for an HTML element. The value of the id attribute
+			must be unique within the HTML document. The id attribute is used to point to a specific
+			style declaration in a style sheet. It is also used by JavaScript,Django to access and manipulate
+			the element with the specific id.
+
+
+textarea	=	The <textarea> HTML element represents a multi-line plain-text editing control, useful when
+			you want to allow users to enter a sizeable amount of free-form text, for example a comment
+		 	on a review or feedback form. gives u a card, or form etc etc.
+
+
+cols		=	colums in text area .. cols="30" , cols="40" etc it increases the size.
+
+rows		=	will increase height of textarea
+
+
+<select		=	The <select> element is used to create a drop-down list.
+			The <select> element is most often used in a form, to collect user input.
+
+			Code Example:
+					
+            				<select name="car" id="car">
+                				<option value="no-car">Select your car</option>
+                				<option value="car1">Toyota</option>
+                				<option value="car2">Suzuki</option>
+						<option value="car2">Mercedes</option>
+            				</select>
+
+					This will create a small drop down with the form where you can select
+					your car, we have set a defualt where it shows Select your car !.
+

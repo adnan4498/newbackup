@@ -1,0 +1,36 @@
+<a img="https://images.unsplash.com/photo-1660439398522-
+		  b895312d404c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MH
+		  xwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=
+		  \1964&q=80" alt="">
+
+
+
+		  This is the image link we copied from google and pasted in the
+		  anchor image tag. it will show the image on frontend
+
+
+
+		  alt=""     alt is used for a text message to be show if the image
+			     was not loaded due to an error 
+		 
+		  for example =    alt="Image not loaded"
+				   alt="Image error"		etc 	
+
+
+
+absoloute and reletive links works in <a img=""	
+
+for example we save a image as image.jpg in our project (in django save it in static file / folder)	
+then we can load the image by 
+
+	<a img="image.jpg" alt=""> = image will be loaded
+
+
+	
+Note =  In django you might have to write code with load static 
+
+make a folder name static .. save image in static folder.. suppose that image name is image.jpg
+
+{% load static %}
+
+<img src="{static 'image.jpg'}" />   	=  image will be loaded		

@@ -1,0 +1,32 @@
+To use google fonts in your css
+
+
+first we select a font in google fonts
+
+for example we select Roboto font
+
+then inside Roboto font go down to   Styles
+
+then there will be multiple varients of fonts for Roboto font . .select anyone
+
+how to select ? at every varient of font there will be a + sign with bold or thin or italic anything will be written on that
+
+after clicking on that + sign then at top left corner there will be an icon of view selected families
+
+after clicking view selected families. below will be option of    <link> 
+
+select link and then copy the link and paste that link right up on your <title> tag in css
+
+after that go to selected families and below <link> there will be   CSS rules to specify families and it will have that font you wanted like:
+
+
+font-family : Roboto, 'Sans Serif', 'Qwitcher Grypen';
+
+
+copy the above font-family and paste it in your css where you want to use this font.
+
+
+so basically we get a link from google fonts and get that font property and then paste both stuff in Css.
+
+
+

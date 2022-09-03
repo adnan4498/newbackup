@@ -1,0 +1,3 @@
+The main difference between absolute and relative paths is that absolute URLs always include the domain name,
+of the site with http://www. Relative links show the path to the file or refer to the file itself. 
+a relative URL is useful within a site to transfer a user from point to point within the same domain.

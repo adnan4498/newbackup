@@ -1,0 +1,10 @@
+We mostly use class for style than id. 
+
+
+
+MDN NOTES = on any tag any element any property, if you move cursor over it vs code will give its MDN Reference
+	    then click over MDN reference it will lead you to a website where it will have all the knowledge
+	    about the specific tag,element,proerty anything etc etc.
+
+
+Border	  = border: 25px solid red;	not just red. give solid with any color or it wont show.

@@ -1,0 +1,4 @@
+Margins are used to create space around elements, outside of any defined borders.
+
+
+Padding is used to create space around an element's content, inside of any defined borders.

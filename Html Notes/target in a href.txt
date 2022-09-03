@@ -1,0 +1,6 @@
+<a href="https://codewithharry.com" target="_main">Click harry website</a>
+
+
+
+target="_main"   will basically open a new tab and open codewithharry
+		 instead of opening it in that particular web page.

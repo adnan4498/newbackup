@@ -1,0 +1,7 @@
+top left
+bottom right
+bottom center
+top right
+
+etc etc anywhere you want to set your image or anything. according to your
+containers width and height.

@@ -1,0 +1,3 @@
+Background-cover = bina aspect ko khrab kiye background me fit krke deta hai.pura container cover krleti hai image.
+
+Background-contain = image backgrond ke tor pr ake zyada se zyada visible hone ki koshish kregi container me.

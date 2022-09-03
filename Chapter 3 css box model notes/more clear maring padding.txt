@@ -1,0 +1,5 @@
+the center margin you see will be 
+
+red's right margin and green's left margin 
+
+left or right margin change hain  baqi top and bottom margin are same for both
